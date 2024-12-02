@@ -8,3 +8,11 @@
 ====== ============================ ================================
 (01)   clone url
 (02)   editar bitácora.txt
+(08)   push origin SegundaRama
+(09)   checkout master
+(17)   checkout PrimeraRama
+(18)   merge SegundaRama        Hay conflictos, se reordena y se corrige
+       add bitácora.txt
+       commit -m "Arreglo conflictos merge SegundaRama en PrimeraRama"
+(19)   checkout master
+(20)   stash apply
