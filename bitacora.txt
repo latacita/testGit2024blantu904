@@ -10,3 +10,5 @@
 (02)   editar bitácora.txt
 (04)   checkout -b PrimeraRama
 (06)   checkout -b SegundaRama 
+(14)                                 La fusion se realizaria por fast-forward puesto que no hay commits adicionales en PrimeraRama posteriores a                 					crear la SegundaRama
+(15)                                 La fusion seria fast-forward puesto que como en master no se han hecho ningun commit.          
