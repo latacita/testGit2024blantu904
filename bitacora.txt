@@ -16,3 +16,6 @@
        commit -m "Arreglo conflictos merge SegundaRama en PrimeraRama"
 (19)   checkout master
 (20)   stash apply
+(26)   tag "PasosExtra"
+(27)   checkout master
+(28)   cherry-pick [hash_commit]       En este caso el hash del commit del paso 25 , encontrado con git log era      									227d343389e3ff1b3989a65fba88c31844194105
