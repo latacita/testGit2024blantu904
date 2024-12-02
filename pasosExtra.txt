@@ -1,0 +1,9 @@
+
+PASO         ACCION                   NOTAS
+(22)         push origin master       da conflicto porque esta fuera de sincronia, es necesario hacer un pull
+             pull
+             add bitácora.txt
+             commit -m 
+             push origin master
+(23)         checkout SegundaRama
+(24)         crear archivo pasosExtra.txt
