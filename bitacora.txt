@@ -9,3 +9,4 @@
 (01)   clone url
 (02)   editar bitácora.txt
 (04)   checkout -b PrimeraRama
+(06)   checkout -b SegundaRama 
